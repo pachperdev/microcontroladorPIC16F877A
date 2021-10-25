@@ -1,5 +1,5 @@
-// Mauricio Andres Pacheco Perez
-// Laura Vanessa Bermúdez vega
+// Mauricio Andres Pacheco Perez - 200088930
+// Laura Vanessa Bermúdez vega - 200128427
 
 //| Delay	|	prescaler |
 //| 0,007	|	4	  |
