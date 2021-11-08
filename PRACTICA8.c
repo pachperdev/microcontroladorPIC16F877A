@@ -1,3 +1,6 @@
+// Mauricio Andres Pacheco Perez - 200088930
+// Laura Vanessa Bermúdez vega - 200128427
+
 #pragma config FOSC = HS        // Oscillator Selection bits (HS oscillator)
 #pragma config WDTE = OFF       // Watchdog Timer Enable bit (WDT disabled)
 #pragma config PWRTE = OFF      // Power-up Timer Enable bit (PWRT disabled)
