@@ -1,5 +1,7 @@
 // Mauricio Andres Pacheco Perez - 200088930
 // Laura Vanessa Bermúdez vega - 200128427
+// Tasa de transmisión(Baudios por segundo) = 9600
+// Frecuencia del oscilador = 10Mhz
 
 #pragma config FOSC = HS        // Oscillator Selection bits (HS oscillator)
 #pragma config WDTE = OFF       // Watchdog Timer Enable bit (WDT disabled)
